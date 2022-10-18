@@ -3,8 +3,8 @@
     "id": "processwire",
     "packaging_format": 1,
     "description": {
-        "en": "Friendly and powerful open source CMS with a strong API.",
-        "fr": "Friendly and powerful open source CMS with a strong API."
+        "en": "Friendly and powerful open source CMS with a strong API",
+        "fr": "CMS open source convivial et puissant avec une API puissante"
     },
     "version": "3.0.200~ynh1",
     "url": "https://processwire.com/",
@@ -17,8 +17,8 @@
     },
     "license": "MPL",
     "maintainer": {
-        "name": "John doe",
-        "email": "john.doe@example.com"
+        "name": "",
+        "email": ""
     },
     "requirements": {
         "yunohost": ">= 11.0.9"
