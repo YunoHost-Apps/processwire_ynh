@@ -9,13 +9,13 @@
     "version": "3.0.200~ynh1",
     "url": "https://processwire.com/",
     "upstream": {
-        "license": "MPL",
+        "license": "MPL-2.0",
         "website": "https://processwire.com/",
         "userdoc": "https://processwire.com/docs/",
         "demo": "https://processwire.com/about/demo/",
         "code": "https://github.com/processwire/processwire"
     },
-    "license": "MPL",
+    "license": "MPL-2.0",
     "maintainer": {
         "name": "",
         "email": ""
@@ -52,11 +52,7 @@
             },
             {
                 "name": "password",
-                "type": "password",
-                "help": {
-                    "en": "Use the help field to add an information for the admin about this question.",
-                    "fr": "Utilisez le champ aide pour ajouter une information à l'intention de l'administrateur à propos de cette question."
-                }
+                "type": "password"
             }
         ]
     }
