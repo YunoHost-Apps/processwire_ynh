@@ -6,7 +6,7 @@
         "en": "Friendly and powerful open source CMS with a strong API",
         "fr": "CMS open source convivial et puissant avec une API puissante"
     },
-    "version": "3.0.200~ynh1",
+    "version": "3.0.210~ynh1",
     "url": "https://processwire.com/",
     "upstream": {
         "license": "MPL-2.0",
@@ -17,7 +17,7 @@
     },
     "license": "MPL-2.0",
     "maintainer": {
-        "name": "",
+        "name": "eric_G",
         "email": ""
     },
     "requirements": {
@@ -26,7 +26,7 @@
     "multi_instance": true,
     "services": [
         "nginx",
-        "php7.4-fpm",
+        "php8.0-fpm",
         "mysql"
     ],
     "arguments": {
