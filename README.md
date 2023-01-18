@@ -24,7 +24,7 @@ ProcessWire is a friendly and powerful open source CMS with an API that is a joy
 
 ## Screenshots
 
-![Screenshot of ProcessWire](./doc/screenshots/example.jpg)
+![Screenshot of ProcessWire](./doc/screenshots/screenshot.png)
 
 ## Documentation and resources
 
