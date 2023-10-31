@@ -5,7 +5,8 @@ It shall NOT be edited by hand.
 
 # ProcessWire pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/processwire.svg)](https://dash.yunohost.org/appci/app/processwire) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/processwire.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/processwire.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/processwire.svg)](https://dash.yunohost.org/appci/app/processwire) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/processwire.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/processwire.maintain.svg)
+
 [![Installer ProcessWire avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=processwire)
 
 *[Read this readme in english.](./README.md)*
@@ -31,7 +32,7 @@ ProcessWire is a friendly and powerful open source CMS with an API that is a joy
 * Site officiel de l’app : <https://processwire.com/>
 * Documentation officielle utilisateur : <https://processwire.com/docs/>
 * Dépôt de code officiel de l’app : <https://github.com/processwire/processwire>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_processwire>
+* YunoHost Store: <https://apps.yunohost.org/app/processwire>
 * Signaler un bug : <https://github.com/YunoHost-Apps/processwire_ynh/issues>
 
 ## Informations pour les développeurs
