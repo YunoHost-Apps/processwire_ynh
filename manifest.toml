@@ -1,0 +1,63 @@
+packaging_format = 2
+
+id = "processwire"
+name = "ProcessWire"
+description.en = "Friendly and powerful open source CMS with a strong API"
+description.fr = "CMS open source convivial et puissant avec une API puissante"
+
+version = "3.0.227~ynh1"
+
+maintainers = ["eric_G"]
+
+[upstream]
+license = "MPL-2.0"
+website = "https://processwire.com/"
+userdoc = "https://processwire.com/docs/"
+demo = "https://processwire.com/about/demo/"
+code = "https://github.com/processwire/processwire"
+
+[integration]
+yunohost = ">= 11.2"
+architectures = "all"
+multi_instance = true
+
+ldap = false
+
+sso = false
+
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    [install.path]
+    type = "path"
+    default = "/processwire"
+
+    [install.init_main_permission]
+    type = "group"
+    default = "visitors"
+
+[resources]
+        [resources.sources.main]
+        url = "https://github.com/processwire/processwire/archive/refs/tags/3.0.227.zip"
+        sha256 = "2f00118af881319f8bc6e1a746f76d9b5d55b3ec656b5c4988493d11f8937de7"
+        autoupdate.strategy = "latest_github_tag"
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.ports]
+
+    [resources.permissions]
+    main.url = "/"
+
+    [resources.apt]
+    packages = "mariadb-server, php8.2-gd, php8.2-mysql"
+
+    [resources.database]
+    type = "mysql"
