@@ -936,7 +936,7 @@ $config->fileCompilerOptions = array(
  * @var array
  *
  */
-$config->httpHosts = array(); 
+$config->httpHosts = array(__DOMAIN__); 
 
 /**
  * Runtime HTTP host
