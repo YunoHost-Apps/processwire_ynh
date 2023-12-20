@@ -936,7 +936,7 @@ $config->fileCompilerOptions = array(
  * @var array
  *
  */
-$config->httpHosts = array(__DOMAIN__); 
+$config->httpHosts = array(); 
 
 /**
  * Runtime HTTP host
@@ -946,7 +946,7 @@ $config->httpHosts = array(__DOMAIN__);
  * ProcessWire's runtime value. 
  * 
  */
-$config->httpHost = '';
+$config->httpHost = '__DOMAIN__';
 
 /**
  * Protect CSRF?
