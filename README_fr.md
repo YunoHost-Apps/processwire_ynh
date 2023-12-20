@@ -16,7 +16,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-ProcessWire is a friendly and powerful open source CMS with an API that is a joy to use at any scale. It is both a content management system (CMS) and framework (CMF) built to save you time and work the way you do. 
+ProcessWire est un CMS open source convivial et puissant avec une API qui est un plaisir à utiliser à n'importe quelle échelle. Il s'agit à la fois d'un système de gestion de contenu (CMS) et d'un framework (CMF) conçus pour vous faire gagner du temps et travailler comme vous le faites.
 
 
 **Version incluse :** 3.0.210~ynh1
