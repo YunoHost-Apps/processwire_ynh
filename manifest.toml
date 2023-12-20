@@ -5,7 +5,7 @@ name = "ProcessWire"
 description.en = "Friendly and powerful open source CMS with a strong API"
 description.fr = "CMS open source convivial et puissant avec une API puissante"
 
-version = "3.0.210~ynh1"
+version = "3.0.227~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -49,9 +49,9 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/processwire/processwire/archive/refs/tags/3.0.210.zip"
-        sha256 = "7436bae42fafafb7eff1476956ab54eaed3e0689ba2ecae5e4363033394c93f6"
-
+        url = "https://github.com/processwire/processwire/archive/refs/tags/3.0.227.zip"
+        sha256 = "2f00118af881319f8bc6e1a746f76d9b5d55b3ec656b5c4988493d11f8937de7"
+        autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]
 
