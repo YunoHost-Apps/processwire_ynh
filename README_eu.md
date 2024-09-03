@@ -5,7 +5,7 @@ EZ editatu eskuz.
 
 # ProcessWire YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/processwire.svg)](https://dash.yunohost.org/appci/app/processwire) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/processwire.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/processwire.maintain.svg)
+[![Integrazio maila](https://dash.yunohost.org/integration/processwire.svg)](https://ci-apps.yunohost.org/ci/apps/processwire/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/processwire.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/processwire.maintain.svg)
 
 [![Instalatu ProcessWire YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=processwire)
 

@@ -5,7 +5,7 @@ NON debe editarse manualmente.
 
 # ProcessWire para YunoHost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/processwire.svg)](https://dash.yunohost.org/appci/app/processwire) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/processwire.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/processwire.maintain.svg)
+[![Nivel de integración](https://dash.yunohost.org/integration/processwire.svg)](https://ci-apps.yunohost.org/ci/apps/processwire/) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/processwire.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/processwire.maintain.svg)
 
 [![Instalar ProcessWire con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=processwire)
 
